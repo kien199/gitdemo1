@@ -1,0 +1,2 @@
+There is class Encode and Detect error bit in C#,It works only with binary strings. For example "01000010"
+Note: Method DectectAndFix will give you a string, previous charater '|' is string fixed and after is index of error bit 
